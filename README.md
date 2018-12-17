@@ -22,7 +22,7 @@ The port setup was done as follows:
 
 ```$ sudo ufw enable```
 
-The app was cloned in /var/www/ItemCatalog from github.
+The app was cloned in ```/var/www/ItemCatalog``` from github.
 
 The configuration file for apache is /etc/apache2/sites-available/dev.project.conf.
 
